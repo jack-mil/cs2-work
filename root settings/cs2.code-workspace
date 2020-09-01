@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\ch1"
+		},
+		{
+			"path": "..\\ch2"
+		},
+		{
+			"path": "..\\ch3"
+		}
+	],
+	"settings": {
+		"editor.rulers": [
+			81
+		],
+		"workbench.colorCustomizations": {
+			"editorRuler.foreground": "#fabd2fa9"
+		}
+	}
+}
