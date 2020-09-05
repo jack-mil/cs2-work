@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "..\\ch3"
+		},
+		{
+			"path": "..\\ch4"
 		}
 	],
 	"settings": {
@@ -19,6 +22,7 @@
 		],
 		"workbench.colorCustomizations": {
 			"editorRuler.foreground": "#fabd2fa9"
-		}
+		},
+		"files.eol": "\n"
 	}
 }

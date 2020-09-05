@@ -27,6 +27,7 @@ public class Financials {
             System.out.print("Enter RMB amount: ");
         } else {
             System.out.println("Please enter 0 or 1!");
+            input.close();
             return;
         }
 
