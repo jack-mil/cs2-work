@@ -1,9 +1,11 @@
-import java.util.Scanner;
-
 // Jackson Miller
 // COSC2103 Computer Science 2
 // 2020-08-21
 // Calculates future investment value (Ch2 2.21)
+
+package invest;
+
+import java.util.Scanner;
 
 public class Invest {
     public static void main(String[] args) {

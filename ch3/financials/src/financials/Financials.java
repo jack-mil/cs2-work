@@ -3,6 +3,7 @@
 // 2020-08-24
 // Assignment 3 ex. 3.31 pg116 Financials: Currency Exchange
 // Exchanges USD to RMB or vice versa, given current exchange rate.
+package financials;
 
 import java.util.Scanner;
 
@@ -21,14 +22,17 @@ public class Financials {
 
         // Conditional output
         // Exit if choice out of range
-        if (choice == 0) {
-            System.out.print("Enter USD amount: ");
-        } else if (choice == 1) {
-            System.out.print("Enter RMB amount: ");
-        } else {
-            System.out.println("Please enter 0 or 1!");
-            input.close();
-            return;
+        switch (choice) {
+            case 0:
+                System.out.print("Enter USD amount: ");
+                break;
+            case 1:
+                System.out.print("Enter RMB amount: ");
+                break;
+            default:
+                System.out.println("Please enter 0 or 1!");
+                input.close();
+                return;
         }
 
         // Calculate converted amount using ternary operator (my favorite)

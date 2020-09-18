@@ -3,6 +3,7 @@
 // 2020-09-05
 // Assignment 4: Payroll exercise 4.23 pg 156
 // Prints formatted payroll slip
+package payroll;
 
 import java.util.Scanner;
 
@@ -46,3 +47,4 @@ public class Payroll {
         input.close();
     }
 }
+

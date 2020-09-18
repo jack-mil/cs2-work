@@ -3,6 +3,7 @@
 // 2020-08-17
 // 1.11 List the population projections for next 5 years
 
+package projection;
 
 public class Projection {
     public static void main(String[] args) {
