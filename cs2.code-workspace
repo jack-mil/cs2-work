@@ -1,19 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".\\ch1"
 		},
 		{
-			"path": "..\\ch1"
+			"path": ".\\ch2"
 		},
 		{
-			"path": "..\\ch2"
+			"path": ".\\ch3"
 		},
 		{
-			"path": "..\\ch3"
+			"path": ".\\ch4"
 		},
 		{
-			"path": "..\\ch4"
+			"path": "ch5"
 		}
 	],
 	"settings": {
