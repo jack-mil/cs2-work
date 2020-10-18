@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "./src/countfile/test1.txt"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountFile<CountFile_5a73e47f>",
+            "request": "launch",
+            "mainClass": "countfile.CountFile",
+            "projectName": "CountFile_5a73e47f"
+        }
+    ]
+}
