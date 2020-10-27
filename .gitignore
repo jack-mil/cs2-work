@@ -1,5 +1,5 @@
 *.zip
-
+*.class
 /ch1/projection/nbproject/private/
 /ch1/projection/build/
 /ch2/invest/nbproject/private/
@@ -24,3 +24,5 @@
 /ch12/CountFile/build/
 /ch13/GeometricObject/nbproject/private/
 /ch13/GeometricObject/build/
+/ch14/SmileyFace/nbproject/private/
+/ch14/SmileyFace/build/
