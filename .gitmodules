@@ -1,0 +1,4 @@
+[submodule "MandelbrotSet"]
+	path = MandelbrotSet
+	url = ../MandelbrotSet/
+	branch = master
