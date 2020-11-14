@@ -66,7 +66,9 @@ public class ShapeDistance extends Application {
         canvas.getChildren().addAll(line, shape1, shape2, distance);
 
         Scene scene = new Scene(canvas, 400, 400, Color.web("#1D2021")); // Grey background
+        
         stage.setScene(scene);
+        stage.setTitle("Assignment 15: Measure Vertices");
 
         stage.show();
     }
