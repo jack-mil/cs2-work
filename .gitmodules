@@ -2,3 +2,6 @@
 	path = MandelbrotSet
 	url = ../MandelbrotSet/
 	branch = master
+[submodule "Mandelbrot-Java"]
+	path = Mandelbrot-Java
+	url = git@github.com:jack-mil/Mandelbrot-Java.git
