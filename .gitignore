@@ -1,5 +1,6 @@
 *.zip
 *.class
+*.jar
 /ch1/projection/nbproject/private/
 /ch1/projection/build/
 /ch2/invest/nbproject/private/
